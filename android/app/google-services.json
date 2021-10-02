@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604770865396",
+    "firebase_url": "https://hair-style-step-by-step-2019.firebaseio.com",
+    "project_id": "hair-style-step-by-step-2019",
+    "storage_bucket": "hair-style-step-by-step-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604770865396:android:d18f4cbc1cb81f1d814ea1",
+        "android_client_info": {
+          "package_name": "com.mebapps.chat_app.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604770865396-vlihsokjsajogrmih4089n60mh5bao60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_zxqM0Jkp61C8Jv5vyBx8xFqBIXnOz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604770865396-vlihsokjsajogrmih4089n60mh5bao60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

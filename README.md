@@ -2,15 +2,23 @@
 
 A chat application made with flutter and firebase
 
-## Getting Started
+## Technologies
 
-This project is a starting point for a Flutter application.
+- Flutter and Dart
 
-A few resources to get you started if this is your first Flutter project:
+- Firebase ( for authentication and Firestore as realtime database )
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Application Overview
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Landing Page : 
+
+<img src="https://user-images.githubusercontent.com/38215895/135733511-4328e491-d59e-4098-a860-69b3b8f6e466.jpg" width=300 align=center>
+
+Login Page : 
+
+<img src="https://user-images.githubusercontent.com/38215895/135733526-8346b95e-cd43-41ce-a027-67b6a0d29bdd.jpg" width=300 align=center>
+
+Chat Screen : 
+
+<img src="https://user-images.githubusercontent.com/38215895/135733533-da5f2478-c2b9-4066-9559-90573d4bf54c.jpg" width=300 align=center>
+
